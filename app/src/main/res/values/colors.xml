@@ -12,4 +12,6 @@
     <color name="button_color">#2F3747</color>
     <color name="button_operator_color">#C45ADC</color>
     <color name="button_text_color">#E074F9</color>
+    <color name="pressed_button_color">#3F4457</color>
+    <color name="pressed_button_operator_color">#D56AEC</color>
 </resources>
